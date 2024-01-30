@@ -14,10 +14,10 @@ I can also develop back end applications with PHP frameworks like Laravel and Lu
 During my carrer I have crafted CRM and CMS with third party APIs integration and MySQL/PostgreSQL, MongoDB and SQLite databases engines.
 
 I like creating web applications with the most innovative technologies like:
-▪ React.js
-▪ Vue.js
-▪ TypeScript
-▪ Laravel
+- React.js
+- Vue.js
+- TypeScript
+- Laravel
 
 ### My hobbies 🚀
 
