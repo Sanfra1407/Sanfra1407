@@ -21,7 +21,7 @@ I like creating web applications with the most innovative technologies like:
 
 ### My hobbies 🚀
 
-I like travelling, running, working out, swimming, cooking, watching tv series and european football (Proud fan of F.C. Internazionale Milano).
+I like travelling, running, working out, swimming, cooking, watching tv series and european football (proud fan of F.C. Internazionale Milano).
 
 ### Contacts 💌
 
