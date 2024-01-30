@@ -8,7 +8,7 @@ I started working with web stuff in 2004: when I was 14 years old. I still remem
 
 Software Engineer with more than 10 years of professional experience, mainly focused on making front end projects.
 
-During the last 7 years I've developed JavaScript applications using React.js, Vue.js and Alpine.js.
+In the last 7 years I've developed JavaScript applications using React.js, Vue.js and Alpine.js.
 
 I can also develop back end applications with PHP frameworks like Laravel and Lumen (this one mostly used for writing REST APIs).
 During my carrer I have crafted CRM and CMS with third party APIs integration and MySQL/PostgreSQL, MongoDB and SQLite databases engines.
