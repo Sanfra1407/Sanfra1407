@@ -2,7 +2,7 @@
 
 I'm Giuseppe and I'm a Software Engineer.
 
-I started working with web stuff in 2004: when I was 14 years old. I still remember the first ugly pages made with Microsoft FrontPage 2003. At the beginning it was just a hobby but I officially turned it in my job since 2012.
+I started working with web stuff in 2004: when I was 14 years old. I still remember the first ugly pages made with Microsoft FrontPage 2003. At the beginning it was just a hobby but I officially turned into my job since 2012.
 
 ### My job 🧑🏻‍💻
 
