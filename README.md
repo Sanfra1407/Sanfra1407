@@ -7,7 +7,6 @@ I started working with web stuff in 2004: when I was 14 years old. I still remem
 ### My job 🧑🏻‍💻
 
 Software Engineer with more than 10 years of professional experience, mainly focused on making front end projects.
-
 In the last 7 years I've developed JavaScript applications using React.js, Vue.js and Alpine.js.
 
 I can also develop back end applications with PHP frameworks like Laravel and Lumen (this one mostly used for writing REST APIs).
