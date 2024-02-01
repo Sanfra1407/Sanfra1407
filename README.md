@@ -1,4 +1,4 @@
-## About me 🤙
+## About me
 
 I'm Giuseppe and I'm a Software Engineer.
 
@@ -22,7 +22,7 @@ I like creating web applications with the most innovative technologies like:
 
 I like travelling, running, working out, swimming, cooking, watching tv series and european football (proud fan of F.C. Internazionale Milano).
 
-### Contacts 💌
+### Contacts 🔗
 
 You can find me here:
 
