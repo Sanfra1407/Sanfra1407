@@ -22,7 +22,7 @@ I like creating web applications with the most innovative technologies like:
 
 I like travelling, running, working out, swimming, cooking, watching tv series and european football (proud fan of F.C. Internazionale Milano).
 
-### Contacts 🔗
+### Links 🔗
 
 You can find me here:
 
