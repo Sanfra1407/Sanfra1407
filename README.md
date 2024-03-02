@@ -12,7 +12,7 @@ In the last 7 years I've developed JavaScript applications using React.js, Vue.j
 I can also develop back end applications with PHP frameworks like Laravel and Lumen (this one mostly used for writing REST APIs).
 During my career I have crafted CRM and CMS with third party APIs integration and MySQL/PostgreSQL, MongoDB and SQLite databases engines.
 
-I like creating web applications with the most innovative technologies like:
+I like creating web applications with the most innovative technologies such:
 - React.js
 - Vue.js
 - TypeScript
