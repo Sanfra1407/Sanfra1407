@@ -27,8 +27,8 @@ I like travelling, running, working out, swimming, cooking, watching tv series a
 
 You can find me here:
 
-- [Web site](https://giuseppesanfrancesco.it)
-- [Resume](https://giuseppesanfrancesco.me)
+- [Website](https://giuseppesanfrancesco.it)
+- [My resume](https://giuseppesanfrancesco.me)
 - [LinkedIn](https://www.linkedin.com/in/giuseppesanfrancesco)
 - [dev.to](https://dev.to/Sanfra1407/)
 - [Instagram](https://instagram.com/Sanfra1407)
